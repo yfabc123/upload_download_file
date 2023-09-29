@@ -1,5 +1,4 @@
 # upload_download_file
-基于tcp协议的 多线程 文件上传下载的demo 菜鸟阿凡github
-
+基于tcp协议的多线程 实现文件上传下载的入门级小项目
 
 hello 阿!
